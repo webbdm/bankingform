@@ -8,4 +8,4 @@
 - Specify What type of loan you are applying for
 
 
-![Beach](https://github.com/webbdm/Dynamic-Cards/blob/exercise/cards.png)
+![Beach]()
